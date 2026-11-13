@@ -1,0 +1,5 @@
+# Stejné verze jako v kurzu (MDIP_public/requirements.txt). Ověřeno na Pythonu 3.12.
+plotly==7.1.0
+dash==4.4.1
+pandas==2.2.3
+numpy==2.3.5

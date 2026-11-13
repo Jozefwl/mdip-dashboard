@@ -1,0 +1,14 @@
+# Data nepatří do gitu. Hostujeme je na CDN, místní kopie je jen pro práci offline.
+data/*
+!data/.gitkeep
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editory
+.idea/
+.vscode/
